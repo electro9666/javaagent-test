@@ -1,6 +1,4 @@
-package com.example;
-
-import com.example.classloader.ClassA;
+package com.example.classloader;
 
 public class MyMain {
 	static {
